@@ -33,19 +33,27 @@ namespace A1
             break;
         }
        }
+       System.Console.WriteLine("How many rolls do u want to examine? ");
+        int exx = int.Parse(Console.ReadLine());
+
+
         int sum = list.Sum();
         double avg = list.Average();
+
         System.Console.WriteLine("Your Past Rolls were : ");
-        foreach(int thing in list)
-        {
-            Console.Write(" " + thing + " ");
-        }
+         
+        for (int ex = 0 ; ex < exx; ex++) {
+        Console.WriteLine(list[ex]);
+}
+
         System.Console.WriteLine();
         System.Console.WriteLine("Sum is: " + sum);
         System.Console.WriteLine("Avg is: " + avg);
         Again();
         return dice;
+        
         }
+    
         
         static void Main(string[] args)
         {   
