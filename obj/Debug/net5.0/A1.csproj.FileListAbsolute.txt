@@ -1,0 +1,15 @@
+/Users/agamsingh/Documents/CProjects/A1/bin/Debug/net5.0/A1.deps.json
+/Users/agamsingh/Documents/CProjects/A1/bin/Debug/net5.0/A1.runtimeconfig.json
+/Users/agamsingh/Documents/CProjects/A1/bin/Debug/net5.0/A1.runtimeconfig.dev.json
+/Users/agamsingh/Documents/CProjects/A1/bin/Debug/net5.0/A1.dll
+/Users/agamsingh/Documents/CProjects/A1/bin/Debug/net5.0/ref/A1.dll
+/Users/agamsingh/Documents/CProjects/A1/bin/Debug/net5.0/A1.pdb
+/Users/agamsingh/Documents/CProjects/A1/obj/Debug/net5.0/A1.csprojAssemblyReference.cache
+/Users/agamsingh/Documents/CProjects/A1/obj/Debug/net5.0/A1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agamsingh/Documents/CProjects/A1/obj/Debug/net5.0/A1.AssemblyInfoInputs.cache
+/Users/agamsingh/Documents/CProjects/A1/obj/Debug/net5.0/A1.AssemblyInfo.cs
+/Users/agamsingh/Documents/CProjects/A1/obj/Debug/net5.0/A1.csproj.CoreCompileInputs.cache
+/Users/agamsingh/Documents/CProjects/A1/obj/Debug/net5.0/A1.dll
+/Users/agamsingh/Documents/CProjects/A1/obj/Debug/net5.0/ref/A1.dll
+/Users/agamsingh/Documents/CProjects/A1/obj/Debug/net5.0/A1.pdb
+/Users/agamsingh/Documents/CProjects/A1/obj/Debug/net5.0/A1.genruntimeconfig.cache
