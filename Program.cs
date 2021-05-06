@@ -24,6 +24,7 @@ namespace A1
         System.Console.WriteLine("ROLLING DICE THORUGH 1 to 6 ::::::");
         System.Console.WriteLine();
         System.Console.WriteLine("Dice number is.... BAM " + dice);
+        list.Add(dice);
         System.Console.WriteLine("Do you wish to continue the rolls? Please Type 'Stop' if you don't wanna continue: ");
         string ans = Console.ReadLine();
         
@@ -31,7 +32,7 @@ namespace A1
             System.Console.WriteLine("Thanks for Playing");
             break;
         }
-        list.Add(dice);
+       }
         int sum = list.Sum();
         double avg = list.Average();
         System.Console.WriteLine("Your Past Rolls were : ");
@@ -42,8 +43,6 @@ namespace A1
         System.Console.WriteLine();
         System.Console.WriteLine("Sum is: " + sum);
         System.Console.WriteLine("Avg is: " + avg);
-       }
-        
         Again();
         return dice;
         }
